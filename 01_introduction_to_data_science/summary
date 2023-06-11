@@ -1,0 +1,9 @@
+Data Science: principles, processes and techniques for understanding a phenomena via analysing data;
+3 levels: Descriptive (What happened) -> Predictive (What will happen) -> Prescriptive (What should I do)
+Goal Data Science: Discover interesting patterns that are easily understood, useful, novel and have some degree of certainty
+Patterns: 
+  - Predictive Analysis (Classification, Regression);
+  - Cluster Analysis, Anomaly Detection;
+  - Frequent Patterns (frequent itemsets, sequential pattern or structured pattern);
+  - Association Analysis:
+  - Class/Concept description (Analysing a target class or comparing two target classes);
